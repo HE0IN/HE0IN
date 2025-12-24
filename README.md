@@ -1,37 +1,39 @@
-# 1년차 개발자 허영인의 개발자취
+# 안녕하세요, 허영인입니다 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HE0IN" alt="my Github Stats"/>
+삼성중공업 생산DT센터 생산지능화 그룹에서 **AI 및 XR 개발**을 담당하고 있습니다.
 
-## 사용해 본 프로그래밍 언어
-1. Python
-2. C++, C#
-3. SQL
-4. HTML, JS, CSS
-   
-## 사용해 본 개발 IDE
-1. Visual studio
-2. visual studio code
-3. Pycharm
-4. Arduino IDE
+---
 
-## 경험 해 본 프로그램
-1. Unity Hub
-2. MySQL
-3. Toad for mysql
+## 🔭 현재 진행 중인 프로젝트
 
-## 경험해 본 컴퓨터 기술
-1. OrCad (전자 설계 프로그램)
-2. autodesk fusion 360 (3D 모델링 프로그램)
+- **4D 설치도 실적 채집 XR 솔루션** - 조선소 현장 적용을 위한 XR 기반 솔루션 개발
+- **도메인 엔지니어링 AI** - 정형/비정형 데이터를 활용한 조선 도메인 특화 AI
+- **BI/BA 대시보드** - Streamlit 기반 비즈니스 인텔리전스 시스템
 
-## 프로젝트 경험
-1. 시청각장애인을 위한 버스탑승보조기
-2. 자율주행자동차 제작
-3. 날씨 API를 이용한 우산 건조보관함
-4. 공정관리 웹 개발
-5. 유니티를 이용하여 VR기기(MetaQuest)를 사용한 야드 구현 및 공정 시뮬레이션 제작
-6. 부서 일정관리를 위한 웹 개발
-7. Spool 조달 관리 미 제작사 부하 관리 웹 개발 및 보수
+## 🛠 기술 스택
 
-## 자격증
-1. SQLD
-2. AdsP
+**현재 사용 중**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**경험**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## 🌱 관심 분야
+
+- **Vertical AI** - 조선/해양 도메인에 특화된 AI 솔루션
+- **도메인 엔지니어링** - 산업 현장의 문제를 AI로 해결
+
+## 📫 연락처
+
+- 📧 Email: zeroin.heo@samsung.com
+- 📱 Phone: (직접 작성)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
