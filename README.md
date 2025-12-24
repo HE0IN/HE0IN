@@ -185,7 +185,3 @@ AI 및 XR 개발 담당
 ---
 
 ## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-zeroin.heo@samsung.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeroin.heo@samsung.com)
-
-📱 Phone: (직접 작성)
