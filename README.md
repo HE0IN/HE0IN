@@ -138,10 +138,9 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-zeroin.heo@samsung.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeroin.heo@samsung.com)
+[![Email](https://img.shields.io/badge/Email-zeroin.heo@samsung.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 📱 Phone: (직접 작성)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
