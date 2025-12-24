@@ -89,7 +89,7 @@
 - Autodesk Fusion 360을 활용한 외관 직접 설계 및 3D 프린팅 제작
 
 **Tech Stack**  
-`Raspberry Pi` `Python` `REST API` `공공데이터포털` `Autodesk Fusion 360` `3D Printing`
+`Raspberry Pi` `Python` `공공데이터포털` `Autodesk Fusion 360` `3D Printing`
 
 ---
 
@@ -103,7 +103,7 @@
 - Autodesk Fusion 360을 활용한 보관함 외관 직접 설계 및 3D 프린팅 제작
 
 **Tech Stack**  
-`Raspberry Pi` `Python` `REST API` `기상청 API` `Autodesk Fusion 360` `3D Printing`
+`Raspberry Pi` `Python` `기상청 API` `Autodesk Fusion 360` `3D Printing`
 
 ---
 
@@ -138,10 +138,4 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-zeroin.heo@samsung.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeroin.heo@samsung.com)
-
-📱 Phone: (직접 작성)
-
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
