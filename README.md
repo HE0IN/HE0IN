@@ -192,4 +192,4 @@ AI 및 XR 개발 담당
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HE0IN&show_icons=true&theme=default)
